@@ -1,2 +1,2 @@
-Пример текста сообщения.
-Example of the message text.
+...Русский текст c точками в начале.
+...English text with dots at the beginning.
