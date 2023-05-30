@@ -1,0 +1,8 @@
+{
+  "to_addrs": ["recipient@example.ru"],
+  "message": {
+    "subject": "Subject",
+    "message_file_path": "example_msg.txt",
+    "attachment_folder_path": "attachments"
+  }
+}
